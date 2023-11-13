@@ -1,3 +1,0 @@
-# Configuration de la VM
-
-Start typing here...

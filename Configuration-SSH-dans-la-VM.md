@@ -1,3 +1,0 @@
-# Configuration SSH dans la VM
-
-Start typing here...

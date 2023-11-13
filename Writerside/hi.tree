@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi"
+                 name="Help Instance"
+                 start-page="Configuration-de-l-espace-de-travail.md">
+
+    <toc-element topic="Configuration-de-l-espace-de-travail.md">
+        <toc-element topic="Installation-de-la-VM-et-HyperV.md"/>
+        <toc-element topic="Configuration-du-SSH.md"/>
+        <toc-element topic="Connexion-au-terminal-de-la-VM-depuis-Windows.md"/>
+    </toc-element>
+</instance-profile>

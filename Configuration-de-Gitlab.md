@@ -1,3 +1,0 @@
-# Configuration de Gitlab et du repository
-
-Start typing here...
