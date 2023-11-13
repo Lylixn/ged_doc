@@ -30,8 +30,17 @@
 
 ## Creation de la VM
 
-- créé la vm
-- lancer vm
+- Sur le gestionnaire Hyper-V aller dans la section "Actions" à droite de l'écran et cliquer sur "Nouveau"
+- Sélectionner "Ordinateur virtuel"
+- Une nouvelle fenêtre "Assistant nouvel ordinateur virtuel" s'ouvre, dans la partie "Spécifier le nom et l'emplacement", préciser alors le nom de la VM (libre à l'utilisateur), vérifier que la case "Stocker l'ordinateur virtuel à un autre emplacement" est décochée et cliquer sur "Suivant"
+- Dans la partie "Spécifier la génération", choisir "Génération 2" et cliquer sur "Suivant"
+- Dans la partie "Affecter la mémoire", vérifier que la mémoire de démarrage est à 1024 Mo et que la case "Utiliser la mémoire dynamique pour cet ordinateur virtuel" est cochée et cliquer sur "Suivant"
+- Dans la partie "Configurer la mise en réseau", cliquer sur le menu déroulant de "Connexion" et choisir "Default Switch" puis cliquer sur "Suivant"
+- Dans la partie "Connecter un disque dur virtuel", vérifier que l'option "Créer un disque dur virtuel" est sélectionnée, ainsi que le nom est le même que celui spécifié précédemment et que la taille est de 127 Go et cliquer sur "Suivant"
+- Dans la partie "Options d'installation", sélectionner l'option "Installer un système d'exploitation à partir d'un fichier image de démarrage" et cliquer sur "Parcourir..." puis sélectionner l'image téléchargée précédemment et cliquer sur "Suivant"
+- La VM est prête, cliquer sur "Terminer"
+
+## Lancement de la VM
 
 ## Installation de l'OS de la VM
 
@@ -52,7 +61,7 @@
             <li>- mot de passe <b>/!\ il serra utile plus tard pour ce connecté en SSH</b></li>
             <li>Puis cliquez sur continuez</li>
             <li>l'installation se lancera ensuite</li>
-            <li>Une fois terminé cliquez sur Reboot Now</li>
+            <li>Une fois terminé cliquez sur Redémarrer maintenant</li>
         </ul>
     </tab>
     <tab title="Ubuntu Server">

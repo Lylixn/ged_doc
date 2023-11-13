@@ -1,5 +1,7 @@
 # Configuration du SSH
 
+- Vous devez avoir terminé l'installation et être connecter a la session votre VM
+
 ## Linux Mint
 
 - Aller dans le terminal de votre VM
