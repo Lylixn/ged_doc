@@ -28,7 +28,7 @@ cat ~/.ssh/id_rsa.pub
 
 #### Clé Privé
 
-- La clé privé est la clé que vous allez garder pour vous
+- La clé privée est la clé que vous allez garder pour vous
 - Elle se trouve dans le fichier **id_rsa**
 - Vous pouvez l&apos;afficher avec la commande suivante
 
