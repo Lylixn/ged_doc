@@ -10,4 +10,12 @@
         <description>Created after removal of "This is the first topic" from Help Instance</description>
         <accepts>Default-topic.html</accepts>
     </rule>
+    <rule id="2f96cb24">
+        <description>Created after removal of "Configuration de l'accès au GitLab" from GED</description>
+        <accepts>Configuration-de-l-accès-au-GitLab.html</accepts>
+    </rule>
+    <rule id="30c31581">
+        <description>Created after removal of "Installation des dépendances pour lancer la GED" from GED</description>
+        <accepts>Installation-des-dépendances-pour-lancer-la-GED.html</accepts>
+    </rule>
 </rules>
