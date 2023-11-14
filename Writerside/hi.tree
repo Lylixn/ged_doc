@@ -3,13 +3,15 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="hi"
-                 name="Help Instance"
+                 name="GED"
                  start-page="Configuration-de-l-espace-de-travail.md">
 
     <toc-element topic="Configuration-de-l-espace-de-travail.md">
         <toc-element topic="Installation-de-la-VM-et-HyperV.md"/>
         <toc-element topic="Configuration-du-SSH.md"/>
         <toc-element topic="Connexion-au-terminal-de-la-VM-depuis-Windows.md"/>
+        <toc-element topic="Configuration-de-l-accès-au-GitLab.md"/>
         <toc-element topic="Installation-des-dépendances-pour-lancer-la-GED.md"/>
+        <toc-element topic="Configuration-et-lancement-de-la-GED.md"/>
     </toc-element>
 </instance-profile>

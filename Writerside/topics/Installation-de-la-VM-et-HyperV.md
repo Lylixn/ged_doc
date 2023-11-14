@@ -42,7 +42,7 @@
 
 ## Lancement de la VM
 
-- -Dans la partie "Ordinateurs virtuels", faire un clic droit sur la VM et sélectionner "Paramètres..." 
+- Dans la partie "Ordinateurs virtuels", faire un clic droit sur la VM et sélectionner "Paramètres..." 
 - aller dans la section "Sécurité" et dans la partie "Démarrage sécurisé"
 - décocher la case "Activer le démarrage sécurisé" et cliquer sur "Ok"
 ![Create new topic options](secure_boot.png){ width=500 }{border-effect=line}

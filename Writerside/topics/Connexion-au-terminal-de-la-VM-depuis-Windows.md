@@ -16,7 +16,7 @@
             <li>
                 <code-block lang="bash">ifconfig</code-block>
             </li>
-            <li>Et bonne chance pour trouvé la bonne ip</li>
+            <li>L'ip est normalement celle de la carte réseaux <b>enp0s3</b></li>
         </ul>
     </tab>
 </tabs>

@@ -22,4 +22,4 @@ sudo systemctl enable ssh --now && sudo systemctl start ssh
 ## Ubuntu Server
 - Si vous avez suivis la partie précedente vous avez deja installé le SSH
 
-#### Vous pouvez maintenant fermer la fentre de la VM et fermer hyperV, votre VM continuera a fonctionner en background
+#### Vous pouvez maintenant fermer la fenetre de la VM et fermer hyperV, votre VM continuera a fonctionner en background
