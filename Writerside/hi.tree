@@ -10,5 +10,6 @@
         <toc-element topic="Installation-de-la-VM-et-HyperV.md"/>
         <toc-element topic="Configuration-du-SSH.md"/>
         <toc-element topic="Connexion-au-terminal-de-la-VM-depuis-Windows.md"/>
+        <toc-element topic="Installation-des-dépendances-pour-lancer-la-GED.md"/>
     </toc-element>
 </instance-profile>
