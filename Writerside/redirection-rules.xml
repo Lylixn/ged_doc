@@ -26,4 +26,8 @@
         <description>Created after removal of "Base" from GED</description>
         <accepts>Base.html</accepts>
     </rule>
+    <rule id="19c74d42">
+        <description>Created after removal of "Procédure" from GED</description>
+        <accepts>Procédure.html</accepts>
+    </rule>
 </rules>
