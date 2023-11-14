@@ -14,4 +14,6 @@
         <toc-element topic="Installation-des-dependances-pour-lancer-la-GED.md"/>
         <toc-element topic="Configuration-et-lancement-de-la-GED.md"/>
     </toc-element>
+    <toc-element topic="Guide-Utilisation-Git.md">
+    </toc-element>
 </instance-profile>
