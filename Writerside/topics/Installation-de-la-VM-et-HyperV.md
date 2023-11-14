@@ -42,12 +42,21 @@
 
 ## Lancement de la VM
 
+- -Dans la partie "Ordinateurs virtuels", faire un clic droit sur la VM et sélectionner "Paramètres..." 
+- aller dans la section "Sécurité" et dans la partie "Démarrage sécurisé"
+- décocher la case "Activer le démarrage sécurisé" et cliquer sur "Ok"
+![Create new topic options](secure_boot.png){ width=500 }{border-effect=line}
+- Dans la section "Actions", cliquer sur "Démarrer" et vérifier que l'état de la VM est "Exécution" dans la partie "Ordinateurs virtuels"
+![Create new topic options](virtual_computer.png){ width=500 }{border-effect=line}
+- Dans la section "Actions", cliquer sur "Se connecter", une nouvelle fenêtre "Connexion à un ordinateur virtuel" s'ouvre
+![Create new topic options](start_screen.png){ width=500 }{border-effect=line}
+- Sélectionner l'image installée avec les flèches haut-bas du clavier (la première dans ce cas) et faire Entrée
+
 ## Installation de l'OS de la VM
 
 <tabs>
     <tab title="Linux Mint">
         <ul>
-            <li>Lorsqu'il y a marquer 'Start Linux Mint 21.2 Cinnamon 64-bit" Appuyer sur entré</li>
             <li>Une fois le chargement fini vous serez sur le bureaux mint</li>
             <li>Double cliquez sur 'Install Linux Mint'</li>
             <li>Selectionnez 'Français' puis cliquez sur continuer</li>
@@ -66,7 +75,6 @@
     </tab>
     <tab title="Ubuntu Server">
         <ul>
-            <li>Lorsqu'il y a marquer 'Try or Install ubuntu Server' Appuyer sur entré</li>
             <li>Une fois le chargement fini</li>
             <li><i>Dans Ubuntu Server il n'y a pas d'interface graphique vous devrez utiliser les flèches pour vous déplacez et entré ou espace pour selectionner ou cliquez</i></li>
             <li>Selectionner la langue Français et appuyer sur Entrée</li>
