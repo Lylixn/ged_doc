@@ -1,8 +1,8 @@
 # Installation des dépendances pour lancer la GED
 
-**Connecter vous en ssh au terminal de la VM**
+**Connectez-vous en SSH au terminal de la VM**
 
-## Installation des dependances
+## Installation des dépendances
 
 ```bash
 sudo apt install apt-transport-https ca-certificates curl gnupg-agent software-properties-common git python2.7 npm -y

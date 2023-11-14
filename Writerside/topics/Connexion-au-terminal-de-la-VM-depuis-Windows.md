@@ -1,35 +1,35 @@
 # Connexion au terminal de la VM depuis Windows
 
-- Vous pouvez maintenant vous connecter à votre VM via SSH
-- Pour cela, il faut connaitre l'adresse IP ou le Nom de domaine de votre VM
+- Vous pouvez maintenant vous <b>connecter à votre VM via SSH</b>
+- Pour cela, il faut connaître <b>l'adresse IP</b> ou le <b>Nom de domaine</b> de votre <b>VM</b>
 
 <tabs>
     <tab title="Nom de domaine VM">
-        <p>Ouvrez HyperV</p>
-        <p>Le nom de la VM serra marquer ici :</p>
+        <p>Ouvrez <b>Hyper-V</b></p>
+        <p>Le <b>nom</b> de la VM sera marqué ici :</p>
         <img src="nom_de_domaine.png" alt="nom de domaine" height="200"/>
     </tab>
-    <tab title="Adresse ip">
+    <tab title="Adresse IP">
         <ul>
-            <li>Allez dans le terminal de votre VM</li>
-            <li>Et executé la commande suivante</li>
+            <li>Allez dans le <b>terminal</b> de votre VM</li>
+            <li>Exécutez la <b>commande suivante</b>:</li>
             <li>
                 <code-block lang="bash">ifconfig</code-block>
             </li>
-            <li>L'ip est normalement celle de la carte réseaux <b>enp0s3</b></li>
+            <li><b>L'IP</b> est normalement celle de la carte réseau <b>enp0s3</b></li>
         </ul>
     </tab>
 </tabs>
 
-- Une fois que vous avez votre ip ouvrir un terminal sur votre machine Windows
-- Vous devez aussi vous rappelez du nom d'utilisateur **que vous avez choisi lors de la création de la VM**
-- Et executé la commande suivante
+- Une fois que vous avez votre <b>IP</b> ouvrez un terminal sur votre machine <b>Windows</b>
+- Vous devez aussi vous rappeler du <b>nom d'utilisateur</b> **que vous avez choisi lors de la création de la VM**
+- Executez la <b>commande suivante</b>:
 
 ```bash
 ssh <nom-utilisateur>@<ip ou nom de domaine>
 ```
 
-- Vous allez devoir entré le mot de passe **de votre VM linux**
-- Puis vous serrez connecté à votre VM en ssh depuis votre machine Windows
+- Vous allez devoir entrer le <b>mot de passe</b> **de votre <b>VM Linux</b>**
+- Puis vous serez connecté à votre VM en <b>SSH</b> depuis votre machine <b>Windows</b>
 
-Chaque commande que vous executé dans le terminal de votre machine Windows serra executé dans le terminal de votre VM
+Chaque <b>commande</b> que vous exécutez dans le <b>terminal de votre machine Windows</b> sera exécutée dans le <b>terminal de votre VM</b>

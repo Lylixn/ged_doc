@@ -1,10 +1,10 @@
 # Configuration de l&apos;espace de travail
 
-#### Toute l'installation avec ubuntu server n'est pas encore testé ni fonctionnel !
+#### Toute l'installation avec Ubuntu Server n'est pas encore testée ni fonctionnelle !
 
-## Differente étape de configuration
+## Differentes étapes de configuration
 
-- [Installation de la VM et HyperV](Installation-de-la-VM-et-HyperV.md)
+- [Installation de la VM et Hyper-V](Installation-de-la-VM-et-HyperV.md)
 - [Configuration du SSH](Configuration-du-SSH.md)
 - [Connexion au terminal de la VM depuis Windows](Connexion-au-terminal-de-la-VM-depuis-Windows.md)
 - [Configuration de l&apos;accès au GitLab](Configuration-de-l-accès-au-GitLab.md)
