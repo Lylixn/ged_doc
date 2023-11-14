@@ -165,3 +165,23 @@ git log --stat
 ```bash
 git log --stat --patch
 ```
+
+## Stash
+
+* Cacher les modifications en cours
+
+```bash
+git stash
+```
+
+* Voir les modifications en cours
+
+```bash
+git stash list
+```
+
+* Récupérer les modifications en cours
+
+```bash
+git stash pop
+```
