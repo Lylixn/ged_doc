@@ -18,4 +18,12 @@
         <description>Created after removal of "Installation des dépendances pour lancer la GED" from GED</description>
         <accepts>Installation-des-dépendances-pour-lancer-la-GED.html</accepts>
     </rule>
+    <rule id="52b25695">
+        <description>Created after removal of "Tutorial" from GED</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="14903d43">
+        <description>Created after removal of "Base" from GED</description>
+        <accepts>Base.html</accepts>
+    </rule>
 </rules>
