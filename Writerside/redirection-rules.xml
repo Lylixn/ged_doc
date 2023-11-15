@@ -30,4 +30,8 @@
         <description>Created after removal of "Procédure" from GED</description>
         <accepts>Procédure.html</accepts>
     </rule>
+    <rule id="4b806078">
+        <description>Created after removal of "Basic Rules" from GED</description>
+        <accepts>Basic-Rules.html</accepts>
+    </rule>
 </rules>
