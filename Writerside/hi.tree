@@ -6,7 +6,6 @@
                  name="GED"
                  start-page="Configuration-de-l-espace-de-travail.md">
 
-    <toc-element topic="Chiffrage.md"/>
     <toc-element topic="Configuration-de-l-espace-de-travail.md">
         <toc-element topic="Installation-de-la-VM-et-HyperV.md"/>
         <toc-element topic="Configuration-du-SSH.md"/>
@@ -45,4 +44,5 @@
         <toc-element topic="Frontend.md"/>
         <toc-element topic="Backend.md"/>
     </toc-element>
+    <toc-element topic="Chiffrage.md"/>
 </instance-profile>
