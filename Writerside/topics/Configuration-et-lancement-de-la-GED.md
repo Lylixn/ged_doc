@@ -2,14 +2,14 @@
 
 ## Configuration de la GED
 
-### Configuration de docker
+### Configuration de Docker
 
-- copier-coller le fichier `docker-compose.local.yml` et renommer le `docker-compose.yml`
-- dans le fichier `docker-compose.yml` supprimer ces differentes partie :
+- <b>Copier-collez</b> le fichier `docker-compose.local.yml` et <b>renommez</b> le `docker-compose.yml`
+- Dans le fichier `docker-compose.yml` <b>supprimez</b> ces differentes parties :
 
 <table>
     <tr>
-        <td>Partie à supprimer</td>
+        <td><b>Partie à supprimer</b></td>
     </tr>
     <tr>
         <td>api-taxged</td>
@@ -42,15 +42,15 @@
 
 ### Installation des dépendances
 
-- mettez-vous à la racine du projet
-- lancer les commandes suivantes :
+- Mettez-vous à la <b>racine du projet</b>
+- Lancez les <b>commandes suivantes</b> :
 
 ```Bash
 cd project/webapp && npm install
 ```
-*car personne n'a merge mon nouveau dockerfile*
+*car personne n'a merge mon nouveau Dockerfile*
 
 ## Lancement de la GED
 
-- lancer la commande `docker compose up -d` pour lancer la GED
-- Puis lancer la commande `docker compose restart api-eddy` *car personne n'a merge mon nouveau dockerfile*
+- Lancez la <b>commande</b> `docker compose up -d` pour lancer la GED
+- Puis lancez la <b>commande</b> `docker compose restart api-eddy` *car personne n'a merge mon nouveau Dockerfile*
