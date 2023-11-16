@@ -1,4 +1,4 @@
-# Réference
+# Référence
 
 - Utiliser toujours les références avec **callback**
 
