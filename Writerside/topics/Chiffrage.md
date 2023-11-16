@@ -1,13 +1,13 @@
 # Chiffrage
 
-L'attribution de points pour chaque ticket prend maintenant en considération :
+L'attribution de **points** pour chaque ticket prend maintenant en considération :
 
-- La complexité du ticket
-- La durée attendue pour qu'un développeur confirmé finisse la tâche.
+- La **complexité** du ticket
+- La **durée** attendue pour qu'un développeur confirmé finisse la tâche
 
-Les nouveaux points varieront de 0 à 16 et la moyenne calculée pendant le chiffrage sera arrondie vers le haut et utilisé pour le point final du ticket en question.
+Les nouveaux points varieront de **0 à 16** et la moyenne calculée pendant le chiffrage sera arrondie vers le haut et utilisée pour le point final du ticket en question.
 
-Pour ce nouveau système de chiffrage qui sera en accord avec les autres équipes de XEFI Software, ce site de Poker Planning peut être utilisé : https://planningpoker.live/
+Pour ce nouveau système de **chiffrage** qui sera en accord avec les autres équipes de **XEFI Software**, ce site de Poker Planning peut être utilisé : **https://planningpoker.live/**
 
 <table>
     <tr>

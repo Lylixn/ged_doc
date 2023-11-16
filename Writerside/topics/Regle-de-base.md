@@ -2,7 +2,7 @@
 
 ## Définition :
 
-- Ne définir qu'un seul composant par fichier [eslint : react/no-multi-comp](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/no-multi-comp.md#ignorestateless)
+- Ne définir qu'**un seul** composant par fichier **[eslint : react/no-multi-comp](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/no-multi-comp.md#ignorestateless)**
 
 ```Javascript
 // Ne pas faire
@@ -31,9 +31,9 @@ var HelloJohn = createReactClass({
 
 ## Class / Fonction / Arrow Function / React.createClass
 
-- Si vous avez un internal state et/ou des refs, préférez class extends React.Component à React.createClass :
+- Si vous avez un internal state et/ou des références, préférez **class extends React.Component** à React.createClass :
 
-[eslint: react/prefer-es6-class](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-es6-class.md) [eslint: react/prefer-stateless-function](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md)
+**[eslint: react/prefer-es6-class](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-es6-class.md) [eslint: react/prefer-stateless-function](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/prefer-stateless-function.md)**
 ```Javascript
 // bad
 const Listing = React.createClass({
@@ -52,7 +52,7 @@ class Listing extends React.Component {
 }
 ```
 
-- Si vous n'avez pas d'état ou de refs, préférez les fonctions normales (pas les arrow fonctions) aux classes :
+- Si vous n'avez pas d'état ou de références, préférez les **fonctions normales** (pas les arrow fonctions) aux classes :
 
 ```Javascript
 // bad

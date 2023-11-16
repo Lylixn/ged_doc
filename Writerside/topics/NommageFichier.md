@@ -1,6 +1,6 @@
 # Nommage
 
-- Utilisez PascalCase pour les noms de fichier. Par exemple, "ReservationCard.jsx".
+- Utilisez **PascalCase** pour les noms de fichier. Par exemple, **"ReservationCard.jsx"**
 
 ```Javascript
 // bad

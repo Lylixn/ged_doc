@@ -4,7 +4,7 @@
 
 ### Configuration de Docker
 
-- <b>Copier-collez</b> le fichier `docker-compose.local.yml` et <b>renommez</b> le `docker-compose.yml`
+- <b>Copiez-collez</b> le fichier `docker-compose.local.yml` et <b>renommez</b> le `docker-compose.yml`
 - Dans le fichier `docker-compose.yml` <b>supprimez</b> ces differentes parties :
 
 <table>

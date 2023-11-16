@@ -1,8 +1,8 @@
 # Render
 
-- Mettre les balises JSX entre parenthèses lorsqu'elles s'étendent sur plus d'une ligne.
+- Mettre les balises JSX entre **parenthèses** lorsqu'elles s'étendent sur plus d'une ligne
 
-[eslint: react/jsx-wrap-multilines](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-wrap-multilines.md)
+**[eslint: react/jsx-wrap-multilines](https://github.com/yannickcr/eslint-plugin-react/blob/master/docs/rules/jsx-wrap-multilines.md)**
 
 ```Javascript
 // bad

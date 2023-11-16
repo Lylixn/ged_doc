@@ -8,9 +8,9 @@ changements ont été faits en vérifiant le statut de git sur le terminal avec 
 git status
 ```
 
-Le développeur s'assure que la branche de destination est celle de « develop ».
+Le développeur s'assure que la branche de destination est celle de **« develop »**
 
-Pour effectuer une MR, voici le code Bash sur le terminal :
+Pour effectuer une MR, voici le code **Bash** sur le terminal :
 
 ```bash
 git add -A
@@ -18,8 +18,8 @@ git commit -m "GED-<numéro-de-ticket>: <message>"
 git push origin <nom-de-la-branche>
 ```
 
-Avant de confirmer la MR sur GitLab, le développeur vérifie les informations suivantes sur
-GitLab :
+Avant de confirmer la **MR** sur GitLab, le développeur vérifie les informations suivantes sur
+**GitLab** :
 
 ![Merge Request](merge_request.png)
 
@@ -28,7 +28,7 @@ GitLab :
 * S’assurer que la **MR transite vers la bonne branche** de destination
 * **N'oubliez pas d'ajouter un reviewer, un assigné et un label tag**
 
-## Creation d'un post sur Discord
+## Création d'un post sur Discord
 
 Une fois la MR confirmée sur GitLab, le développeur va **créer un post Discord sur le salon de
 discussion "MR"**. Le titre du post est le même que le **titre de la MR défini sur GitLab**. À la ligne
@@ -44,23 +44,23 @@ L'exemple d'un post :
 ## Suivi du Ticket sur JIRA
 
 La prochaine étape consiste à **transiter le ticket de JIRA** qui a été envoyé pour une MR dans la
-**colonne de Review** sur le tableau de bord de Jira.
+**colonne de Review** sur le tableau de bord de Jira
 
 ![jira](jira.png)
 
 **Dans la description du ticket, venez rajouter votre procédure de test** dans le commentaire du
-ticket et faites une suivie des notifications sur le ticket.
+ticket et faites un suivi des notifications sur le ticket
 
-## Gerer les conflits
+## Gérer les conflits
 
 Si le développeur a des conflits lors de la MR, il doit **résoudre les conflits** et **pousser les changements sur GitLab**.
 
 **Vérifier que la branche “develop” est à jour** en effectuant une update sur l‘IDE de la branche
-“develop”
+**“develop”**
 
-Une fois la branche de “develop” mise à jour, **aller sur la branche du ticket sur laquelle il faut résoudre les conflits**
+Une fois la branche de **“develop”** mise à jour, **aller sur la branche du ticket sur laquelle il faut résoudre les conflits**
 
-Sur le terminal effectuer un :
+Sur le terminal **effectuer** :
 ```Bash
 git Pull origin
 ```

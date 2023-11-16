@@ -1,67 +1,67 @@
 # Installation de Jetbrains
 
-## Récuperation Students Jetbrains License
+## Récupération Students Jetbrains License
 
-- Aller sur [License étudiant](https://www.jetbrains.com/shop/eform/students)
-- Remplissez le formulaire
-- Vous recevrez un mail avec votre license
+- Allez sur <b>[License étudiant](https://www.jetbrains.com/shop/eform/students)</b>
+- Remplissez le <b>formulaire</b>
+- Vous recevrez un <b>mail</b> avec votre <b>licence</b>
 
 ## Téléchargement
 
 ### Pycharm
 
-- Aller sur [Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)
-- Télécharger la version Professional
-- Installer le logiciel
-- Lancer le logiciel
-- Cliquer sur `Se connecter`
-- Cliquer sur `Jetbrains account`
-- Se connecter avec votre compte Jetbrains
-- Cliquer sur `Activate`
+- Allez sur <b>[Pycharm](https://www.jetbrains.com/pycharm/download/#section=windows)</b>
+- Téléchargez la version <b>Professional</b>
+- <b>Installez</b> le logiciel
+- <b>Lancez</b> le logiciel
+- Cliquez sur <b>`Se connecter`</b>
+- Cliquez sur <b>`Jetbrains account`</b>
+- Connectez-vous avec votre <b>compte Jetbrains</b>
+- Cliquez sur <b>`Activate`</b>
 
 ### Gateway
 
-- Aller sur [Gateway](https://www.jetbrains.com/gateway/)
-- Cliquer sur `Download`
-- Installer le logiciel
-- Lancer le logiciel
-- Cliquer sur `Se connecter`
-- Cliquer sur `Jetbrains account`
-- Se connecter avec votre compte Jetbrains
-- Cliquer sur `Activate`
+- Allez sur <b>[Gateway](https://www.jetbrains.com/gateway/)</b>
+- Cliquez sur <b>`Download`</b>
+- <b>Installez</b> le logiciel
+- <b>Lancez</b> le logiciel
+- Cliquez sur <b>`Se connecter`</b>
+- Cliquez sur <b>`Jetbrains account`</b>
+- Connectez-vous avec votre <b>compte Jetbrains</b>
+- Cliquez sur <b>`Activate`</b>
 
 ### Toolbox
 
-- Aller sur [Toolbox](https://www.jetbrains.com/toolbox-app/)
-- Cliquer sur `Download`
-- Installer le logiciel
-- Lancer le logiciel
-- Cliquer sur le bouton paramètre
-- Cliquer sur `Se connecter`
-- Cliquer sur `Jetbrains account`
-- Se connecter avec votre compte Jetbrains
-- Cliquer sur `Activate`
-- Choisissez les logiciels que vous voulez installer
-- Cliquer sur `Install`
+- Allez sur <b>[Toolbox](https://www.jetbrains.com/toolbox-app/)</b>
+- Cliquez sur <b>`Download`</b>
+- <b>Installez</b> le logiciel
+- <b>Lancez</b> le logiciel
+- Cliquez sur le bouton <b>Paramètres</b>
+- Cliquez sur <b>`Se connecter`</b>
+- Cliquez sur <b>`Jetbrains account`</b>
+- Connectez-vous avec votre <b>compte Jetbrains</b>
+- Cliquez sur <b>`Activate`</b>
+- Choisissez les <b>logiciels</b> que vous voulez <b>installer</b>
+- Cliquez sur <b>`Install`</b>
 
 ## Ouvrir le projet
 
-- Ouvrir le logiciel
-- Aller dans remotes dévelopment
-- Aller dans SSH
-- Aller dans New Project
-- Entré le nom de domaine de la VM ou l'IP
-- Entré le nom d'utilisateur
-- Entré le mot de passe
-- Cliquer sur `Next`
-- Le projet serra ouvert
+- <b>Ouvrez</b> le logiciel
+- Allez dans **Remote Development**
+- Allez dans **SSH**
+- Allez dans **New Project**
+- Entrez le **nom de domaine** de la VM ou l'IP
+- Entrez le **nom d'utilisateur**
+- Entrez le **mot de passe**
+- Cliquez sur **`Next`**
+- Le **projet** sera ouvert
 
 ## Configuration
 
-Quelques plugins plutôt utiles :
+Quelques **plugins** plutôt utiles :
 
-- [Rainbow Brackets](https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite--free-and-opensource)
-- [Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)
-- [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
-- [Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)
-- [Copilot](https://plugins.jetbrains.com/plugin/17718-copilot)
+- **[Rainbow Brackets](https://plugins.jetbrains.com/plugin/20710-rainbow-brackets-lite--free-and-opensource)**
+- **[Indent Rainbow](https://plugins.jetbrains.com/plugin/13308-indent-rainbow)**
+- **[Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)**
+- **[Atom Material Icons](https://plugins.jetbrains.com/plugin/10044-atom-material-icons)**
+- **[Copilot](https://plugins.jetbrains.com/plugin/17718-copilot)**
