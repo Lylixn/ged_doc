@@ -12,7 +12,7 @@ Pour ce nouveau système de **chiffrage** qui sera en accord avec les autres éq
 <table>
     <tr>
         <td>Point</td>
-        <td>Durée Attendu</td>
+        <td>Durée Attendue</td>
         <td>Niveau de difficulté</td>
         <td>Exemple de tâche</td>
     </tr>
